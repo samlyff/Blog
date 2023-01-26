@@ -1,6 +1,6 @@
 Dónde: Av María Cristina, junto a la Fuente de Montjuic
 
-Recorrido
+Recorrido:
 
 ![Recorrido](/Mapa-ZMB.png)
 
